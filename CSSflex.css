@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: whitesmoke;
+    background-color: grey;
+    font-size: 40px;
+}
+div {
+    background-color: rgba(0, 0, 255, 0.744);
+    width: 650px;
+    height: 350px;
+    margin-top: 33px;
+    text-align: center;
+}
+.Tendons {
+    background-color: rgba(255, 192, 203, 0.744);
+}
+.Bone {
+    background-color: rgba(255, 192, 203, 0.744);
+}
